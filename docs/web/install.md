@@ -26,7 +26,7 @@ The latest version of this document is always available at
 
 > **Note** `TFEL` is available as a `spack` package.
 >
-> One easy way to install `TFEL` under `LiNuX` and `MacOs`
+> One easy way to install `TFEL` under `Linux` and `MacOS`
 > is to use the following instructions:
 >
 > ~~~~{.bash}
